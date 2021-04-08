@@ -1,0 +1,2 @@
+# Prediction-of-Hepatitis-C-risk-on-blood-samples-by-Support-Vector-Machines
+The aim of this Jupyter Notebook is to build a good Support Vector Machine Classifier (SVM or SVMC or SVC) able to distinguish among blood samples of safe and high risk hepatitis-c donors. The target attribute for classification was the Category feature converted into a two levels factor, with Blood Donors and Hepatitis classes (including its progress 'just' Hepatitis C, Fibrosis and Cirrhosis).
